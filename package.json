@@ -1,0 +1,23 @@
+{
+  "name": "photo-album",
+  "version": "1.0.0",
+  "description": "Console application that displays photo ids and titles in an album",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coreyphelps/photo-album.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coreyphelps/photo-album/issues"
+  },
+  "homepage": "https://github.com/coreyphelps/photo-album#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
