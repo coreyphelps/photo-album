@@ -1,0 +1,13 @@
+{
+  "cacheDirectory": ".jest-cache",
+  "moduleFileExtensions": ["js"],
+  "setupFilesAfterEnv": [
+    "<rootDir>/test/test-setup.js"
+  ],
+  "testMatch": [
+    "<rootDir>/test/**/*.spec.js"
+  ],
+  "transform": {
+    "^.+\\.js$": "babel-jest"
+  }
+}
