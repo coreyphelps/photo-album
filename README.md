@@ -3,12 +3,12 @@ cli for fetching photo information, formatting it and showing it in the terminal
 
 ## Usage
 ```
-    options:
-        -h, --help                 Show the help menu
-        -a [?]                     Choose a specific album to view information on, where ? is the albumId
-        -r start,end               Provide a range of albums to view, ex. photo-album -r 1,4
-        -u --available-albums      Show a list of albumIds available to choose from
-        -A, --all                  Show all albums
+options:
+    -h, --help                 Show the help menu
+    -a [?]                     Choose a specific album to view information on, where "?" is the albumId
+    -r start,end               Provide a range of albums to view, ex. photo-album -r 1,4
+    -u --available-albums      Show a list of albumIds available to choose from
+    -A, --all                  Show all albums
 ```
 
 ## Prerequisites
